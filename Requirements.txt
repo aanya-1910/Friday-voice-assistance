@@ -1,0 +1,14 @@
+modules:
+subprocess
+wolframalpha
+pyttsx3
+wikipedia
+speech recognition
+web browser
+datetime
+time
+requests
+
+Text Editor: Pycharm or VS Code editor
+wolframalpha API Key (you have to register on wolframalpha website for key)
+For weather information we use openweathermap API (for API key, you have to register)
